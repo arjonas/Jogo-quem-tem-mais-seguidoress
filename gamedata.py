@@ -298,5 +298,32 @@ data = [
         'follower_count': 47,
         'descrição': 'Competição de basquete de clube',
         'país': 'Estados Unidos'
+    },
+    {
+
+        'nome':'Flamengo' ,
+        'follower_count':8 ,
+        'descrição':'Um club de futebol' ,
+        'país':'Brasil'
+
+
+         
+    },
+    {
+
+        'nome':'Anitta' ,
+        'follower_count':55,
+        'descrição':'Uma cantora pop brasileira' ,
+        'país':'Brasil'
+
+    },
+    {
+
+        'nome':'Whinderson Nunes' ,
+        'follower_count':53,
+        'descrição':'Um humorista brasileiro' ,
+        'país':'Brasil'
     }
+
+
 ]
